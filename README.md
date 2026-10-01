@@ -1,5 +1,3 @@
-<a href="https://daily.dev/walksysdev"><img src="https://api.daily.dev/devcards/v2/jAWI4WhKxtAIOIijap1bZ.png?r=zz9&type=wide&r=g5k" width="652" alt="Walksys Dev Card"/></a>
-
 # Hi, I'm Nuvyra Host
 
 **Full-Stack, Infrastructure & Bot Developer**  
