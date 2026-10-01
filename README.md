@@ -74,10 +74,6 @@ Crafting scalable solutions, robust Discord bots, and high-performance server en
 - **System Bot** ⚙️ | **Music Bot** 🎵 | **Ticket Bot** 🎫
 - **Giveaway Bot** 🎉 | **Game Bot** 🎮 | **Buy Roles Bot** 💎 | **Buy Server Bot** 🛒
 
----
-
-## 📈 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com?user=Walksys&theme=meta-dark)
 
 ---
 
